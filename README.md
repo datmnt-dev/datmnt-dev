@@ -26,15 +26,66 @@
 ## About Me
 
 - Developer focused on **frontend, backend, and full-stack web projects**
-- Comfortable working with **TypeScript, JavaScript, Java, React, Node.js, and SQL**
+- Comfortable working with **TypeScript, JavaScript, Python, Java, React, Node.js, and SQL**
 - Interested in building systems that are **simple, fast, maintainable, and user-friendly**
 - Always learning by shipping real projects and improving them step by step
 
-## Tech Stack
+## Technologies I Use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,nodejs,express,mysql,postgres,html,css,tailwind,git,github,vscode" alt="Tech stack icons" />
-</p>
+> Filtered from my public repositories and previous projects.
+
+### Programming Languages
+
+| Technology | Where I Use It |
+| --- | --- |
+| TypeScript | Frontend apps, backend services, typed web projects |
+| JavaScript | Frontend features, UI logic, web interactions |
+| Python | AI-related projects, backend logic, and automation scripts |
+| Java | Backend services and server-side application logic |
+
+### Frontend
+
+| Technology | Where I Use It |
+| --- | --- |
+| React | Component-based user interfaces |
+| Next.js | Full-stack React applications and routing |
+| HTML5 | Page structure and semantic markup |
+| CSS3 | Styling, layouts, and responsive UI |
+| SCSS | Structured stylesheet authoring |
+| Tailwind CSS | Utility-first styling and fast interface building |
+| Handlebars | Server-rendered templates and dynamic HTML views |
+
+### Backend
+
+| Technology | Where I Use It |
+| --- | --- |
+| Node.js | JavaScript/TypeScript runtime for backend apps |
+| Express.js | REST APIs and backend routing |
+| Java | Backend application services |
+| Python | AI service logic and backend-side processing |
+
+### AI & Automation
+
+| Technology | Where I Use It |
+| --- | --- |
+| Python | AI features and automation-focused projects |
+
+### Databases
+
+| Technology | Where I Use It |
+| --- | --- |
+| MySQL | Relational database design and queries |
+| PostgreSQL | Relational data storage and application persistence |
+
+### Tools & Workflow
+
+| Technology | Where I Use It |
+| --- | --- |
+| Git | Version control |
+| GitHub | Source hosting, collaboration, and project showcase |
+| VS Code | Daily coding environment |
+| Docker | Container configuration for project environments |
+| Makefile | Build and command automation |
 
 ## Featured Projects
 
@@ -46,16 +97,6 @@
 | [SWPGr/fe-jobfinder](https://github.com/SWPGr/fe-jobfinder) | Frontend for a job finder platform. | JavaScript |
 | [SWPGr/be-jobfinder](https://github.com/SWPGr/be-jobfinder) | Backend for a job finder platform. | Java |
 | [dat_porfolio](https://github.com/datmnt-dev/dat_porfolio) | Personal portfolio website. | TypeScript |
-
-## Profile Snapshot
-
-| Focus | Details |
-| --- | --- |
-| Main stack | TypeScript, JavaScript, Java |
-| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, Java |
-| Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code |
 
 ## GitHub Streak
 
