@@ -47,21 +47,20 @@
 | [SWPGr/be-jobfinder](https://github.com/SWPGr/be-jobfinder) | Backend for a job finder platform. | Java |
 | [dat_porfolio](https://github.com/datmnt-dev/dat_porfolio) | Personal portfolio website. | TypeScript |
 
-## GitHub Stats
+## Profile Snapshot
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=datmnt-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dat's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datmnt-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Dat's most used languages" />
-</div>
+| Focus | Details |
+| --- | --- |
+| Main stack | TypeScript, JavaScript, Java |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, Java |
+| Database | MySQL, PostgreSQL |
+| Tools | Git, GitHub, VS Code |
+
+## GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=datmnt-dev&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datmnt-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 ## Connect
