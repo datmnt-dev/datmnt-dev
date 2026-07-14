@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:22C55E,100:F97316&text=Mai%20Nguyen%20Tien%20Dat&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20Java&descAlignY=58&descSize=16" alt="Mai Nguyen Tien Dat profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E3A5F,45:2F6F73,100:6D5D6E&text=Mai%20Nguyen%20Tien%20Dat&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Software%20Developer%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20Java&descAlignY=58&descSize=15" alt="Mai Nguyen Tien Dat profile banner" />
 </div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 | Technology | Where I Use It |
 | --- | --- |
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> | Frontend apps, backend services, typed web projects |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> | Frontend features, UI logic, web interactions |
+| <img src="https://img.shields.io/badge/JavaScript-D6BA32?style=flat-square&logo=javascript&logoColor=1F2937" alt="JavaScript" /> | Frontend features, UI logic, web interactions |
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | AI-related projects, backend logic, and automation scripts |
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> | Backend services and server-side application logic |
 
@@ -49,7 +49,7 @@
 | --- | --- |
 | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> | Component-based user interfaces |
 | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> | Full-stack React applications and routing |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> | Page structure and semantic markup |
+| <img src="https://img.shields.io/badge/HTML5-C65D3A?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> | Page structure and semantic markup |
 | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> | Styling, layouts, and responsive UI |
 | <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" /> | Structured stylesheet authoring |
 | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | Utility-first styling and fast interface building |
@@ -81,7 +81,7 @@
 
 | Technology | Where I Use It |
 | --- | --- |
-| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> | Version control |
+| <img src="https://img.shields.io/badge/Git-C95F42?style=flat-square&logo=git&logoColor=white" alt="Git" /> | Version control |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> | Source hosting, collaboration, and project showcase |
 | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> | Daily coding environment |
 | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> | Container configuration for project environments |
@@ -94,7 +94,7 @@
 | [Music_Web_FE](https://github.com/datmnt-dev/Music_Web_FE) | Frontend for a music web application with a modern listening experience. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
 | [Music_Web_BE](https://github.com/datmnt-dev/Music_Web_BE) | Backend service for the music web platform. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
 | [library_management_system](https://github.com/datmnt-dev/library_management_system) | Library management system for organizing books and users. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
-| [SWPGr/fe-jobfinder](https://github.com/SWPGr/fe-jobfinder) | Frontend for a job finder platform. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> |
+| [SWPGr/fe-jobfinder](https://github.com/SWPGr/fe-jobfinder) | Frontend for a job finder platform. | <img src="https://img.shields.io/badge/JavaScript-D6BA32?style=flat-square&logo=javascript&logoColor=1F2937" alt="JavaScript" /> |
 | [SWPGr/be-jobfinder](https://github.com/SWPGr/be-jobfinder) | Backend for a job finder platform. | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> |
 | [dat_porfolio](https://github.com/datmnt-dev/dat_porfolio) | Personal portfolio website. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
 
