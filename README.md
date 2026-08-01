@@ -36,11 +36,7 @@ I'm a software developer based in Da Nang, Vietnam. I enjoy turning ideas into c
 
 ## Contribution calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake.svg" />
-  <img alt="Animated GitHub contribution calendar" src="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/master/metrics-isocalendar.svg" alt="GitHub contribution calendar" width="100%" />
 
 <sub>Generated from my GitHub contribution calendar and refreshed twice daily.</sub>
 
