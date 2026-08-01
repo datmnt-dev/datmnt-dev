@@ -34,11 +34,15 @@ I'm a software developer based in Da Nang, Vietnam. I enjoy turning ideas into c
 
 > Explore more projects in my [repositories](https://github.com/datmnt-dev?tab=repositories) or on my [portfolio](https://datmnt-dev-porfolio.vercel.app/).
 
-## Contribution & activity
+## Contribution calendar
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datmnt-dev&theme=github-compact&hide_border=true&area=true" alt="Dat's GitHub contribution activity" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake.svg" />
+  <img alt="Animated GitHub contribution calendar" src="https://raw.githubusercontent.com/datmnt-dev/datmnt-dev/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>Generated from my GitHub contribution calendar and refreshed twice daily.</sub>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=datmnt-dev&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true" alt="Dat's GitHub statistics" height="170" />
@@ -53,4 +57,3 @@ I'm open to collaboration, learning opportunities, and projects where solid engi
 
 - Portfolio: [datmnt-dev-porfolio.vercel.app](https://datmnt-dev-porfolio.vercel.app/)
 - LinkedIn: [in/datmnt-dev](https://www.linkedin.com/in/datmnt-dev/)
-
